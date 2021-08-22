@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TLA_final_project/1.0.0": {
+        "runtime": {
+          "TLA_final_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TLA_final_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
